@@ -80,6 +80,7 @@ data_warehouse_sql_project/
 │   ├── data_flow.drawio
 │   ├── data_catalog.md
 │   ├── naming-conventions.md
+|   ├── requirements.txt
 ├── scripts/          # SQL ETL scripts
 │   ├── bronze/       # Raw layer loads
 │   ├── silver/       # Clean & transform
@@ -87,7 +88,7 @@ data_warehouse_sql_project/
 ├── tests/            # Validation & QA checks
 ├── LICENSE
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---

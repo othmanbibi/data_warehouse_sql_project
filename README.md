@@ -76,6 +76,7 @@ data_warehouse_sql_project/
 ├── datasets/         # Source CSV files
 ├── docs/             # Documentation & diagrams
 │   ├── data_architecture.drawio
+│   ├── data_architecture.png
 │   ├── data_models.drawio
 │   ├── data_flow.drawio
 │   ├── data_catalog.md

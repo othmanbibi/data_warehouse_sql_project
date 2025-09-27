@@ -78,10 +78,14 @@ data_warehouse_sql_project/
 │   ├── data_architecture.drawio
 │   ├── data_architecture.png
 │   ├── data_models.drawio
+│   ├── data_models.png
+│   ├── integration_model.drawio
+│   ├── integration_model.png
 │   ├── data_flow.drawio
+│   ├── data_flow.png
 │   ├── data_catalog.md
 │   ├── naming-conventions.md
-|   ├── requirements.txt
+|   ├── requirements.md
 ├── scripts/          # SQL ETL scripts
 │   ├── bronze/       # Raw layer loads
 │   ├── silver/       # Clean & transform

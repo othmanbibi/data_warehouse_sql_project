@@ -110,5 +110,6 @@ Use it, adapt it, or extend it however you like. ✨
 This Project is inspired by the SQL course taught by **Data with Baraa**.
 
 ---
+You can reach me at [Othman.BIBI@emines.um6p.ma](Othman.BIBI@emines.um6p.ma)
 
 
